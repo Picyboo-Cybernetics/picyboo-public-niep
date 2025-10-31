@@ -13,7 +13,6 @@ Standard backpropagation updates all network weights simultaneously, causing des
 ## Whitepaper
 - PDF: docs/halenta-neuro-inspired-error-propagation-(NIEP)-2025-10-11-v1.pdf  
 - DOI: https://doi.org/10.5281/zenodo.17357249  
-- Also available on arXiv (Cornell University, USA)
 
 ## Repository purpose
 Public research reference for industry and collaborators. Mirrors the technical whitepaper and provides stubs for reference implementations or models.
