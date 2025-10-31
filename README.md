@@ -11,8 +11,8 @@ Standard backpropagation updates all network weights simultaneously, causing des
 **Keywords:** Continual Learning, Refractory Gating, Eligibility Traces, Catastrophic Interference, Federated Learning, Asynchronous Training, Energy-Efficient AI, Stability-Plasticity Dilemma
 
 ## Whitepaper
-- PDF: docs/halenta-neuro-inspired-error-propagation-(NIEP)-2025-10-11-v1.pdf  
-- DOI: https://doi.org/10.5281/zenodo.17357249  
+- PDF: docs/halenta-neuro-inspired-error-propagation-(NIEP)-2025-10-11-v1.3.pdf  
+- DOI: https://doi.org/10.5281/zenodo.17455451  
 
 ## Repository purpose
 Public research reference for industry and collaborators. Mirrors the technical whitepaper and provides stubs for reference implementations or models.
@@ -23,7 +23,7 @@ Openly published for transparency. Implementation stubs included. Roadmaps and c
 ## How to cite
 > Halenta, D. N. (2025). *Neuro-Inspired Error Propagation (NIEP): Refractory Period-Based Learning for Stable, Incremental AI Systems.*  
 > Picyboo Cybernetics Inc.  
-> DOI: https://doi.org/10.5281/zenodo.17357249
+> DOI: https://doi.org/10.5281/zenodo.17455451
 
 ## Links
 - Website: https://picyboo.com  
